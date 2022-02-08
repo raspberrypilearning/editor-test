@@ -20,7 +20,7 @@ Read the output and then tap <kbd>Enter</kbd> to continue.
 Type in your answers to the questions. Can you see how your answers are used?
 </div>
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/a54e164ac2?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://carrot-cake-proto.herokuapp.com/embed/viewer/python-emoji-example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/hello-final.png">
 </div>
