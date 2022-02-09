@@ -54,7 +54,7 @@ hobbies()
 title: Completed project
 ---
 
-You can view the [completed project here](https://trinket.io/embed/python/a54e164ac2){:target="_blank"}.
+You can view the [completed project here](https://carrot-cake-proto.herokuapp.com/python/python-emoji-example){:target="_blank"}.
 
 --- /collapse ---
 
