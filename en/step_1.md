@@ -2,7 +2,6 @@
 
 Open the [Hello 🌍🌎🌏 starter project](https://carrot-cake-proto.herokuapp.com/python/python-hello-starter){:target="_blank"}. Trinket will open in another browser tab.
 
---- no-print ---
 --- task ---
 ### Try it
 <div style="display: flex; flex-wrap: wrap">
@@ -17,8 +16,4 @@ Type in your answers to the questions. Can you see how your answers are used?
 </div>
 </div>
 --- /task ---
---- /no-print ---
 
---- print-only ---
-![Completed project](images/showcase_static.png)
---- /print-only ---
