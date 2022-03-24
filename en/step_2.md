@@ -9,7 +9,6 @@ Open the [target practice starter project](https://carrot-cake-proto.herokuapp.c
 <div class="trinket">
   <iframe src="https://carrot-cake-proto.herokuapp.com/embed/viewer/python-archery-example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
-  <img src="images/hello-final.png">
 </div>
 </div>
 --- /task ---
