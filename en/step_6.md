@@ -7,7 +7,7 @@ Open the [powerful patterns starter project](https://carrot-cake-proto.herokuapp
 <div style="display: flex; flex-wrap: wrap">
 
 <p>
-  Spiral patterns: [See inside](https://carrot-cake-proto.herokuapp.com/embed/viewer/spirals-pattern-example)
+  Spiral patterns: [See inside](https://carrot-cake-proto.herokuapp.com/python/spirals-pattern-example){:target="_blank"}
 </p>
 <div class="trinket">
   <iframe src="https://carrot-cake-proto.herokuapp.com/embed/viewer/spirals-pattern-example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -15,7 +15,7 @@ Open the [powerful patterns starter project](https://carrot-cake-proto.herokuapp
 </div>
 
 <p>
-  Yakan Weaving: [See inside](https://carrot-cake-proto.herokuapp.com/embed/viewer/yakan-weaving-example)
+  Yakan Weaving: [See inside](https://carrot-cake-proto.herokuapp.com/python/yakan-weaving-example){:target="_blank"}
 </p>
 <div class="trinket">
   <iframe src="https://carrot-cake-proto.herokuapp.com/embed/viewer/yakan-weaving-example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -23,7 +23,7 @@ Open the [powerful patterns starter project](https://carrot-cake-proto.herokuapp
 </div>
 
 <p>
-  Random faces: [See inside](https://carrot-cake-proto.herokuapp.com/embed/viewer/random-faces-example)
+  Random faces: [See inside](https://carrot-cake-proto.herokuapp.com/python/random-faces-example){:target="_blank"}
 </p>
 <div class="trinket">
   <iframe src="https://carrot-cake-proto.herokuapp.com/embed/viewer/random-faces-example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -31,7 +31,7 @@ Open the [powerful patterns starter project](https://carrot-cake-proto.herokuapp
 </div>
 
 <p>
-  McEwen Tartan: [See inside](https://carrot-cake-proto.herokuapp.com/embed/viewer/mcewen-tartan-example)
+  McEwen Tartan: [See inside](https://carrot-cake-proto.herokuapp.com/python/mcewen-tartan-example){:target="_blank"}
 </p>
 <div class="trinket">
   <iframe src="https://carrot-cake-proto.herokuapp.com/embed/viewer/mcewen-tartan-example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -39,7 +39,7 @@ Open the [powerful patterns starter project](https://carrot-cake-proto.herokuapp
 </div>
 
 <p>
-  Kek Lepis Sarawak: [See inside](https://carrot-cake-proto.herokuapp.com/embed/viewer/repeated-patterns-example)
+  Kek Lepis Sarawak: [See inside](https://carrot-cake-proto.herokuapp.com/python/repeated-patterns-example){:target="_blank"}
 </p>
 <div class="trinket">
   <iframe src="https://carrot-cake-proto.herokuapp.com/embed/viewer/repeated-patterns-example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -47,7 +47,7 @@ Open the [powerful patterns starter project](https://carrot-cake-proto.herokuapp
 </div>
 
 <p>
-  Art Deco: [See inside](https://carrot-cake-proto.herokuapp.com/embed/viewer/art-deco-example)
+  Art Deco: [See inside](https://carrot-cake-proto.herokuapp.com/python/art-deco-example){:target="_blank"}
 </p>
 <div class="trinket">
   <iframe src="https://carrot-cake-proto.herokuapp.com/embed/viewer/art-deco-example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
