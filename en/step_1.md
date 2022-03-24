@@ -12,7 +12,6 @@ Type in your answers to the questions. Can you see how your answers are used?
 <div class="trinket">
   <iframe src="https://carrot-cake-proto.herokuapp.com/embed/viewer/python-emoji-example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
-  <img src="images/hello-final.png">
 </div>
 </div>
 --- /task ---

@@ -1,7 +1,7 @@
 ## Rocket Launch
 
 
-Open the [target practice starter project](https://carrot-cake-proto.herokuapp.com/python/rocket-launch-starter){:target="_blank"}. Project will open in another browser tab.
+Open the [rocket launch starter project](https://carrot-cake-proto.herokuapp.com/python/rocket-launch-starter){:target="_blank"}. Project will open in another browser tab.
 
 --- task ---
 ### Try it
