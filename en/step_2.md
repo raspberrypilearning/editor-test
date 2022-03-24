@@ -1,7 +1,7 @@
 ## Target Practice
 
 
-Open the [target practice starter project](https://carrot-cake-proto.herokuapp.com/python/python-archery-starter){:target="_blank"}. Trinket will open in another browser tab.
+Open the [target practice starter project](https://carrot-cake-proto.herokuapp.com/python/python-archery-starter){:target="_blank"}. Project will open in another browser tab.
 
 --- task ---
 ### Try it
