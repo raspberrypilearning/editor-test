@@ -1,56 +1,56 @@
 ## Powerful Patterns
 
-Open the [powerful patterns starter project](https://carrot-cake-proto.herokuapp.com/python/powerful-patterns-starter){:target="_blank"}. Project will open in another browser tab.
+Open the [powerful patterns starter project](https://editor-prototype.raspberrypi.org/python/powerful-patterns-starter){:target="_blank"}. Project will open in another browser tab.
 
 --- task ---
 ### Try it
 <div style="display: flex; flex-wrap: wrap">
 
 <p>
-  Spiral patterns: [See inside](https://carrot-cake-proto.herokuapp.com/python/spirals-pattern-example){:target="_blank"}
+  Spiral patterns: [See inside](https://editor-prototype.raspberrypi.org/python/spirals-pattern-example){:target="_blank"}
 </p>
 <div class="trinket">
-  <iframe src="https://carrot-cake-proto.herokuapp.com/embed/viewer/spirals-pattern-example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://editor-prototype.raspberrypi.org/embed/viewer/spirals-pattern-example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
 <p>
-  Yakan Weaving: [See inside](https://carrot-cake-proto.herokuapp.com/python/yakan-weaving-example){:target="_blank"}
+  Yakan Weaving: [See inside](https://editor-prototype.raspberrypi.org/python/yakan-weaving-example){:target="_blank"}
 </p>
 <div class="trinket">
-  <iframe src="https://carrot-cake-proto.herokuapp.com/embed/viewer/yakan-weaving-example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://editor-prototype.raspberrypi.org/embed/viewer/yakan-weaving-example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
 <p>
-  Random faces: [See inside](https://carrot-cake-proto.herokuapp.com/python/random-faces-example){:target="_blank"}
+  Random faces: [See inside](https://editor-prototype.raspberrypi.org/python/random-faces-example){:target="_blank"}
 </p>
 <div class="trinket">
-  <iframe src="https://carrot-cake-proto.herokuapp.com/embed/viewer/random-faces-example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://editor-prototype.raspberrypi.org/embed/viewer/random-faces-example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
 <p>
-  McEwen Tartan: [See inside](https://carrot-cake-proto.herokuapp.com/python/mcewen-tartan-example){:target="_blank"}
+  McEwen Tartan: [See inside](https://editor-prototype.raspberrypi.org/python/mcewen-tartan-example){:target="_blank"}
 </p>
 <div class="trinket">
-  <iframe src="https://carrot-cake-proto.herokuapp.com/embed/viewer/mcewen-tartan-example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://editor-prototype.raspberrypi.org/embed/viewer/mcewen-tartan-example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
 <p>
-  Kek Lepis Sarawak: [See inside](https://carrot-cake-proto.herokuapp.com/python/repeated-patterns-example){:target="_blank"}
+  Kek Lepis Sarawak: [See inside](https://editor-prototype.raspberrypi.org/python/repeated-patterns-example){:target="_blank"}
 </p>
 <div class="trinket">
-  <iframe src="https://carrot-cake-proto.herokuapp.com/embed/viewer/repeated-patterns-example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://editor-prototype.raspberrypi.org/embed/viewer/repeated-patterns-example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
 <p>
-  Art Deco: [See inside](https://carrot-cake-proto.herokuapp.com/python/art-deco-example){:target="_blank"}
+  Art Deco: [See inside](https://editor-prototype.raspberrypi.org/python/art-deco-example){:target="_blank"}
 </p>
 <div class="trinket">
-  <iframe src="https://carrot-cake-proto.herokuapp.com/embed/viewer/art-deco-example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://editor-prototype.raspberrypi.org/embed/viewer/art-deco-example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 </div>
