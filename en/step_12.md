@@ -30,7 +30,7 @@ Open the [Blank Starter Project](https://editor-prototype.raspberrypi.org/python
 </div>
 
 <p>
-[Persuasive Data Presentation: Dog Breed Characteristics Starter Project](https://editor-prototype.raspberrypi.org/python/){:target="_blank"}. Project will open in another browser tab.
+[Persuasive Data Presentation: Dog Breed Characteristics Starter Project](https://editor-prototype.raspberrypi.org/python/data-dogs-starter){:target="_blank"}. Project will open in another browser tab.
 </p>
 <p>
  Persuasive Data Presentation: Dog Breed Characteristics: [See inside](https://editor-prototype.raspberrypi.org/python/data-dogs-example){:target="_blank"}
