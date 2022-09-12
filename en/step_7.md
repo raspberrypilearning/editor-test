@@ -9,9 +9,8 @@ Open the [Charting Champions starter](https://editor-prototype.raspberrypi.org/p
   Charting Champions Example: [See inside](https://editor-prototype.raspberrypi.org/python/charting-champions-example){:target="_blank"}
 </p>
 <div class="trinket">
-  <iframe src="https://editor-prototype.raspberrypi.org/embed/viewer/charting-champions-example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://staging-editor.raspberrypi.org/embed/viewer/charting-champions-example?show_visual_tab=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 </div>
 --- /task ---
-
