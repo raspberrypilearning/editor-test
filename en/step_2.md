@@ -1,23 +1,14 @@
-## Step title
+## Target Practice
 
-Add an introductory sentence. What will learners achieve by the end of this step?
 
---- task ---
-
-If working **online**, open the [starter project](http://rpf.io/p/en/projectName-on){:target="_blank"} in Scratch.
- 
-If working **offline**, open the project [starter file](http://rpf.io/p/en/projectName-get){:target="_blank"} in the Scratch offline editor. If you need to download and install Scratch, you can find it [here](https://scratch.mit.edu/download){:target="_blank"}.
-
-You should see...
- 
-![starter project](images/starter_project.png)
-
---- /task ---
+Open the [target practice starter project](https://editor-prototype.raspberrypi.org/python/python-archery-starter){:target="_blank"}. Project will open in another browser tab.
 
 --- task ---
-
-Step content...
-
+### Try it
+<div style="display: flex; flex-wrap: wrap">
+<div class="trinket">
+  <iframe src="https://editor-prototype.raspberrypi.org/embed/viewer/python-archery-example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  </iframe>
+</div>
+</div>
 --- /task ---
-
---- save ---

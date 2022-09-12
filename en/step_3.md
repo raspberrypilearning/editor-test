@@ -1,7 +1,13 @@
-## What next?
+## Rocket Launch
 
-If you are following the [PathwayName](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [ProjectName](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
+Open the [rocket launch starter project](https://editor-prototype.raspberrypi.org/python/rocket-launch-starter){:target="_blank"}. Project will open in another browser tab.
 
-![ProjectName project](images/projectname-project.png)
-
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+--- task ---
+### Try it
+<div style="display: flex; flex-wrap: wrap">
+<div class="trinket">
+  <iframe src="https://editor-prototype.raspberrypi.org/embed/viewer/rocket-launch-example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  </iframe>
+</div>
+</div>
+--- /task ---
