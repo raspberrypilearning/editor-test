@@ -25,7 +25,7 @@ Open the [Blank Starter Project](https://editor-prototype.raspberrypi.org/python
   Persuasive Data Presentation: Periodic Table: [See inside](https://editor-prototype.raspberrypi.org/python/periodic-table-example){:target="_blank"}
 </p>
 <div class="trinket">
-  <iframe src="https://editor-prototype.raspberrypi.org/embed/viewer/periodic-table-example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://editor-staging.raspberrypi.org/embed/viewer/periodic-table-example?show_visual_tab=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
@@ -36,7 +36,7 @@ Open the [Blank Starter Project](https://editor-prototype.raspberrypi.org/python
  Persuasive Data Presentation: Dog Breed Characteristics: [See inside](https://editor-prototype.raspberrypi.org/python/data-dogs-example){:target="_blank"}
 </p>
 <div class="trinket">
-  <iframe src="https://editor-prototype.raspberrypi.org/embed/viewer/data-dogs-example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://editor-staging.raspberrypi.org/embed/viewer/data-dogs-example?show_visual_tab=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
@@ -47,7 +47,7 @@ Open the [Blank Starter Project](https://editor-prototype.raspberrypi.org/python
   Persuasive Data Presentation: ISS Expeditions: [See inside](https://editor-prototype.raspberrypi.org/python/data-iss-example){:target="_blank"}
 </p>
 <div class="trinket">
-  <iframe src="https://editor-prototype.raspberrypi.org/embed/viewer/data-iss-example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://editor-staging.raspberrypi.org/embed/viewer/data-iss-example?show_visual_tab=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
@@ -58,7 +58,7 @@ Open the [Blank Starter Project](https://editor-prototype.raspberrypi.org/python
   Persuasive Data Presentation: UFO Sightings: [See inside](https://editor-prototype.raspberrypi.org/python/data-ufo-example){:target="_blank"}
 </p>
 <div class="trinket">
-  <iframe src="https://editor-prototype.raspberrypi.org/embed/viewer/data-ufo-example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://editor-staging.raspberrypi.org/embed/viewer/data-ufo-example?show_visual_tab=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
@@ -69,9 +69,8 @@ Open the [Blank Starter Project](https://editor-prototype.raspberrypi.org/python
   Persuasive Data Presentation: Volcanic Eruptions: [See inside](https://editor-prototype.raspberrypi.org/python/data-volcano-example){:target="_blank"}
 </p>
 <div class="trinket">
-  <iframe src="https://editor-prototype.raspberrypi.org/embed/viewer/data-volcano-example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://editor-staging.raspberrypi.org/embed/viewer/data-volcano-example?show_visual_tab=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 </div>
 --- /task ---
-

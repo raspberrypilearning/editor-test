@@ -10,7 +10,7 @@ Read the output and then tap <kbd>Enter</kbd> to continue.
 Type in your answers to the questions. Can you see how your answers are used?
 </div>
 <div class="trinket">
-  <iframe src="https://editor-prototype.raspberrypi.org/embed/viewer/python-emoji-example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://editor-staging.raspberrypi.org/embed/viewer/python-emoji-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 </div>
