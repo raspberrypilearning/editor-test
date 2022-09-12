@@ -10,7 +10,7 @@ Open the [make a face starter project](https://editor-prototype.raspberrypi.org/
   Kawaii Fruit: [See inside](https://editor-prototype.raspberrypi.org/python/fruit-face-example){:target="_blank"}
 </p>
 <div class="trinket">
-  <iframe src="https://editor-staging.raspberrypi.org/embed/viewer/fruit-face-example?show_visual_tab=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://staging-editor.raspberrypi.org/embed/viewer/fruit-face-example?show_visual_tab=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
@@ -18,7 +18,7 @@ Open the [make a face starter project](https://editor-prototype.raspberrypi.org/
   Stacked faces: [See inside](https://editor-prototype.raspberrypi.org/python/stacked-faces-example){:target="_blank"}
 </p>
 <div class="trinket">
-  <iframe src="https://editor-staging.raspberrypi.org/embed/viewer/stacked-faces-example?show_visual_tab=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://staging-editor.raspberrypi.org/embed/viewer/stacked-faces-example?show_visual_tab=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
@@ -26,7 +26,7 @@ Open the [make a face starter project](https://editor-prototype.raspberrypi.org/
   Tribal Mask: [See inside](https://editor-prototype.raspberrypi.org/python/tribal-mask-example){:target="_blank"}
 </p>
 <div class="trinket">
-  <iframe src="https://editor-staging.raspberrypi.org/embed/viewer/tribal-mask-example?show_visual_tab=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://staging-editor.raspberrypi.org/embed/viewer/tribal-mask-example?show_visual_tab=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
