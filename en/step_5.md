@@ -9,7 +9,7 @@ Open the [don't collide starter project](https://editor-prototype.raspberrypi.or
   Skiing cat: [See inside](https://editor-prototype.raspberrypi.org/python/skiing-cat-example){:target="_blank"}
 </p>
 <div class="trinket">
-  <iframe src="https://staging-editor.raspberrypi.org/embed/viewer/skiing-cat-example?show_visual_tab=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://staging-editor.raspberrypi.org/embed/viewer/skiing-cat-example?show_visual_tab=true" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
@@ -17,7 +17,7 @@ Open the [don't collide starter project](https://editor-prototype.raspberrypi.or
   Don't pop: [See inside](https://editor-prototype.raspberrypi.org/python/dont-pop-example){:target="_blank"}
 </p>
 <div class="trinket">
-  <iframe src="https://staging-editor.raspberrypi.org/embed/viewer/dont-pop-example?show_visual_tab=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://staging-editor.raspberrypi.org/embed/viewer/dont-pop-example?show_visual_tab=true" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
@@ -25,7 +25,7 @@ Open the [don't collide starter project](https://editor-prototype.raspberrypi.or
   Avoid the germs: [See inside](https://editor-prototype.raspberrypi.org/python/avoid-germs-example){:target="_blank"}
 </p>
 <div class="trinket">
-  <iframe src="https://staging-editor.raspberrypi.org/embed/viewer/avoid-germs-example?show_visual_tab=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://staging-editor.raspberrypi.org/embed/viewer/avoid-germs-example?show_visual_tab=true" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
@@ -33,7 +33,7 @@ Open the [don't collide starter project](https://editor-prototype.raspberrypi.or
   Clean car: [See inside](https://editor-prototype.raspberrypi.org/python/clean-car-example){:target="_blank"}
 </p>
 <div class="trinket">
-  <iframe src="https://staging-editor.raspberrypi.org/embed/viewer/clean-car-example?show_visual_tab=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://staging-editor.raspberrypi.org/embed/viewer/clean-car-example?show_visual_tab=true" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
@@ -41,7 +41,7 @@ Open the [don't collide starter project](https://editor-prototype.raspberrypi.or
   Dodge asteroids: [See inside](https://editor-prototype.raspberrypi.org/python/dodge-asteroids-example){:target="_blank"}
 </p>
 <div class="trinket">
-  <iframe src="https://staging-editor.raspberrypi.org/embed/viewer/dodge-asteroids-example?show_visual_tab=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://staging-editor.raspberrypi.org/embed/viewer/dodge-asteroids-example?show_visual_tab=true" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 </div>
